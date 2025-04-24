@@ -10,3 +10,4 @@
 
 useful links:
 https://foundations-of-ml.ida.liu.se/content/section1/numpy_intro
+https://medium.com/@debopamdeycse19/introduction-to-pandas-for-data-science-d5a575e4cd9b
