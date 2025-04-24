@@ -6,3 +6,7 @@
 3. python -m venv .venv
 4. source .venv/bin/activate (or .venv/Scripts/activate on Windows)
 5. pip install -r requirements.txt
+
+
+useful links:
+https://foundations-of-ml.ida.liu.se/content/section1/numpy_intro
