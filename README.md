@@ -16,6 +16,8 @@ https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/datasets.c
 
 https://datacomy.com/data_analysis/pandas/merge/
 
-PK, FK 
-left join, right join, ...
-one-one, one-many, many-many
+
+For more reading on database concepts:
+- Primary Keys (PK) and Foreign Keys (FK)
+- Join types: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN
+- Relationship types: One-to-One, One-to-Many, Many-to-Many
