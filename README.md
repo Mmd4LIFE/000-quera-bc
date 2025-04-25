@@ -15,7 +15,7 @@ https://medium.com/@debopamdeycse19/introduction-to-pandas-for-data-science-d5a5
 https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/datasets.csv
 
 https://datacomy.com/data_analysis/pandas/merge/
-
+https://pandas.pydata.org/docs/user_guide/reshaping.html
 
 For more reading on database concepts:
 - Primary Keys (PK) and Foreign Keys (FK)
