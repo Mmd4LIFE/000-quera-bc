@@ -13,3 +13,9 @@ https://foundations-of-ml.ida.liu.se/content/section1/numpy_intro
 https://medium.com/@debopamdeycse19/introduction-to-pandas-for-data-science-d5a575e4cd9b
 
 https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/datasets.csv
+
+https://datacomy.com/data_analysis/pandas/merge/
+
+PK, FK 
+left join, right join, ...
+one-one, one-many, many-many
