@@ -1,0 +1,11 @@
+customer_id,name,city,signup_date
+C001,Customer 1,Frankfurt,2023-03-13
+C002,Customer 2,Cologne,2023-02-12
+C003,Customer 3,Frankfurt,2023-12-23
+C004,ali,Berlin,2023-10-14
+C005,Customer 5,Cologne,2023-03-27
+C006,Customer 6,Cologne,2023-05-12
+C007,Customer 7,Frankfurt,2023-07-15
+C008,Customer 8,Munich,2023-03-01
+C009,Customer 9,Berlin,2023-06-04
+C010,Customer 10,Hamburg,2023-01-11
